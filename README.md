@@ -5,4 +5,4 @@ This is text based game I made using after learning Python for the first time. I
 1. Understood how to utilise classes, instance variables, polymorphism
 2. Learnt a bit about pointers and how Python uses neither pass-by-reference or pass-by-value
 3. Learnt how to upload files onto GitHub using Git
-4. How to program with Python (before this I've only programmed in MatLab in my engineering courses)
+4. How to program with Python and object-oriented programming (before this I've only programmed in MatLab in my engineering courses)
